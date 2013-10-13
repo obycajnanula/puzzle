@@ -1,5 +1,4 @@
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;PREAMBLE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;PREAMBLE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 this engaging code is developed by nula jedna and vermachti. you are not allowd tu pull'r dull.
 
 the more we learn about the world, and the deeper our learning, the more conscious, specific, 
