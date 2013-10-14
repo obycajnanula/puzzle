@@ -20,4 +20,6 @@ of knoledge consists, mainly, in the modification of earlier knowledge. although
 for example in archaeology, advance through a chance observation, the significance of the discovery 
 will usually depend upon its power to modify our earlier theories."
 
+nothing is true, everything is permitted
+
 
